@@ -22,6 +22,8 @@
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
 </p>
 
+---
+
 
 
 ### 🌟 Featured Projects
