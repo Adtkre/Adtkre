@@ -22,8 +22,6 @@
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
 </p>
 
----
-### 🐍 Watch my contribution graph get eaten by a pink snake!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" alt="Pink snake animation" />
