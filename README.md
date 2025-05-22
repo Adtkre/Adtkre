@@ -12,12 +12,11 @@
 
 ---
 
-### 🍬 Tech Stack (with cute icons!)
+### 🍬 Tech Stack 
 <p>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/postgresql.png" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
