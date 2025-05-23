@@ -14,7 +14,7 @@
 
 ### 🍬 Tech Stack 
 <p>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" title="C++"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
