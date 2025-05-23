@@ -20,6 +20,7 @@
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/?size=48&id=40670&format=png&color=000000" title="C"/>
 </p>
 
 ---
