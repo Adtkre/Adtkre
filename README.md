@@ -28,13 +28,3 @@
 
 
 
-### 🌟 Featured Projects
-
-
-
-🌼 **SnapFix**  
-> Fixes problems like magic — with sparkles and sanity ✨
-
-
----
-
