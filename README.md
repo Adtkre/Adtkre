@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   🍓 CSE Student | 🛠️ Building whimsical tools & cute tech<br>
-  🧁  pixels, pastel UIs, and peaceful code
+  🧁 pixels, pastel UIs, and peaceful code
 </p>
 
 ---
@@ -19,15 +19,14 @@
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
- 
 </p>
 
 ---
 
-### Contribution
+### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg)
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" />
+  <img alt="Pastel Snake Contribution Graph" src="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" />
+</picture>
