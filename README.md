@@ -12,7 +12,7 @@
 
 ---
 
-### 🍬 Tech Stack  
+#🍬 Tech Stack  
 <p align="center">
   <img src="https://img.icons8.com/?size=48&id=2T6TKY6whzgV&format=png&color=000000" title="C++"/>
   <img src="https://img.icons8.com/?size=48&id=40670&format=png&color=000000" title="C"/>
@@ -25,7 +25,7 @@
 
 ---
 
-### Contribution 
+#💻 Contributions
 
 <p align="center">
   <picture>
