@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate pastel snake SVGs
+      - name: Generate lavender snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Adtkre
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#dd79d9&color_dots=#fce4f9,#f3d1f4,#e9bdef,#dfa8ea,#d593e5
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#dd79d9&color_dots=#8a558a,#9b66a3,#ac78bb,#bd89d4,#ce9aec
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#dd79d9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#dd79d9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
