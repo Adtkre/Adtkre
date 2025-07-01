@@ -1,5 +1,5 @@
 <!-- 🐣 Intro -->
-<h1 align="center">🌼 Hi there, I'm Adtkre 🌼</h1>
+<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=I+code+cool+things+in+Python+%F0%9F%90%8D;I+design+smart+assistants+like+ZORA+%F0%9F%A4%96;Building+fun+and+friendly+UIs+%F0%9F%92%83" alt="Typing SVG" />
 </p>
