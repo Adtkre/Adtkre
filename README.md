@@ -12,7 +12,8 @@
 
 
 
-## 🍬 Tech Stack: 
+###
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/?size=48&id=2T6TKY6whzgV&format=png&color=000000" title="C++"/>
   <img src="https://img.icons8.com/?size=48&id=40670&format=png&color=000000" title="C"/>
@@ -25,8 +26,8 @@
 
 
 
-## 💻 Contributions:
-
+###
+<h3 align="left">Contributions:</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake-dark.svg" />
