@@ -40,7 +40,7 @@
 
 ###
 <h3 align="left">Contributions:</h3>
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" />
