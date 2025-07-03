@@ -10,7 +10,7 @@
   🧁 Pixels, pastel UIs, and peaceful code
 </p>
 
----
+
 
 # 🍬 Tech Stack  
 <p align="left">
@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
 </p>
 
----
+
 
 # 💻 Contributions
 
