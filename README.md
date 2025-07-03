@@ -56,6 +56,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adtkre&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true" alt="Adtkre's GitHub stats" />
 </a>
 
-<a href="https://github.com/Adtkre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adtkre&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
