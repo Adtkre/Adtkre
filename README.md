@@ -5,12 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=435&lines=I+code+cool+things+in+Python+%F0%9F%90%8D;I+design+assistants+like+ZORA+%F0%9F%A4%96;Building+fun+and+friendly+UIs+%F0%9F%92%83" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   🍓 CSE Student · 🛠️ Building whimsical tools & cute tech <br>
   🧁 Pixels, pastel UIs, and peaceful code
 </p>
 
----
+
 
 ###
 <h3 align="left">Languages and Tools:</h3>
