@@ -10,7 +10,7 @@
   🧁 Pixels, pastel UIs, and peaceful code
 </p>
 
-
+---
 
 ###
 <h3 align="left">Languages and Tools:</h3>
