@@ -1,4 +1,4 @@
-<!-- 🐣 Intro -->
+
 <h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=b60e75&style=flat" alt="adtkre" /> </p>
 
