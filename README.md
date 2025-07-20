@@ -9,7 +9,7 @@
 
 <p align="center">
   🍓 CSE Student · 🛠️ Building whimsical tools & cute tech <br>
-  🧁 Pixels, pastel UI, and peaceful code
+  🧁 Pixels, pastel UI, Peaceful code
 </p>
                     
  ### Socials:
