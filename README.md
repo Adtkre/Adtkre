@@ -1,8 +1,14 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=b60e75&style=flat" alt="adtkre" /> 
+  <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=e178c3&style=flat" alt="adtkre" /> 
 </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=fdf6fb&center=true&vCenter=true&width=1000&lines=+Hi+there,+I'm+Aditi+Kishore+" alt="Big Header SVG" />
+</p>
 
-<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" /></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2700&pause=1000&color=efb7df&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" />
+</p>
 
 <img src="https://i.pinimg.com/originals/a4/54/a5/a454a5c89ff664340f4bf5b48ae5c0bb.gif" 
      align="right" 
@@ -60,5 +66,5 @@
 ###  My GitHub Stats:
 
 <a href="https://github.com/Adtkre">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adtkre&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true" alt="Adtkre's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adtkre&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=e178b2&hide_border=true" alt="Adtkre's GitHub stats" />
 </a>
