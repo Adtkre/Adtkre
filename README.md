@@ -1,16 +1,12 @@
 
-<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=b60e75&style=flat" alt="adtkre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=b60e75&style=flat" alt="adtkre" /> </p> 
 
-
+<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=435&lines=I+code+cool+things+in+Python+%F0%9F%90%8D;I+design+assistants+like+ZORA+%F0%9F%A4%96;Building+fun+and+friendly+UIs+%F0%9F%92%83" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🍓 CSE Student · 🛠️ Building whimsical tools & cute tech <br>
-  🧁 Pixels, Pastel UI, Peaceful code
-</p>
+
                     
  ### Socials:
                   
