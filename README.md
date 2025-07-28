@@ -2,11 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=adtkre&label=Profile%20views&color=b60e75&style=flat" alt="adtkre" /> 
 </p> 
 
-<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" />
-</p>
+<h1 align="center">🌼 Hi there, I'm Aditi Kishore 🌼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=dd79d9&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" /></h1>
 
 <img src="https://i.pinimg.com/originals/a4/54/a5/a454a5c89ff664340f4bf5b48ae5c0bb.gif" 
      align="right" 
