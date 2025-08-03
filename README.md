@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/a4/54/a5/a454a5c89ff664340f4bf5b48ae5c0bb.gif" 
      align="right" 
      width="400" 
-     style="margin-left: 20px; margin-top: -400px;" 
+     style="margin-left: 20px; margin-top: -400px;"
      alt="Pastel Aesthetic GIF" />
 
 
