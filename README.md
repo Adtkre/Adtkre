@@ -63,21 +63,4 @@
 
 
 
-###  My GitHub Stats:
-
-<a href="https://github.com/Adtkre">
-  <img
-    src="https://github-readme-stats.vercel.app/api
-      ?username=adtkre
-      &show_icons=true
-      &count_private=true
-      &title_color=ffffff
-      &text_color=ffffff
-      &icon_color=ec4899
-      &bg_color=E178B2
-      &hide_border=true
-      &cache_seconds=1800"
-    alt="Adtkre's GitHub stats"
-  />
-</a>
 
