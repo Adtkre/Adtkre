@@ -10,9 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2700&pause=1000&color=efb7df&center=true&vCenter=true&width=1000&lines=I+am+a+CSE+student;Building+whimsical+tools+%26+cute+tech;Pixels,+Pastel+UI,+Peaceful+code" alt="Typing SVG" />
 </p>
 
-<img src="[https://i.pinimg.com/originals/a4/54/a5/a454a5c89ff664340f4bf5b48ae5c0bb.gif](https://s8.ezgif.com/tmp/ezgif-83f57a2123c81f8e.gif)" 
+<img src="https://s8.ezgif.com/tmp/ezgif-83f57a2123c81f8e.gif" 
      align="right" 
-     width="400" 
+     width="300" 
      style="margin-left: 20px; margin-top: -400px;"
      alt="Pastel Aesthetic GIF" />
 
