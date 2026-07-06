@@ -34,7 +34,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
     </picture>
   </a>
-  <a href="[http://www.instagram.com/havea.capture](https://www.linkedin.com/in/aditi-kishore-729836320/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/aditi-kishore-729836320/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
