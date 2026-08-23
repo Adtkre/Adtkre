@@ -64,15 +64,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 </p>
 
-### Contributions:
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" />
-    <img alt="Lavender Snake Contribution Graph" src="https://raw.githubusercontent.com/Adtkre/Adtkre/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ### GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Adtkre&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
