@@ -65,8 +65,6 @@
 </p>
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Adtkre&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adtkre&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
